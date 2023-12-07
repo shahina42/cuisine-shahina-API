@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(230, 230, 230);
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.about{
+ 
+    height: 250px;
+    background-color: rgb(161, 19, 19);
+    text-align: center;
+    
+
+}
+
+.about h4{
+width:400px;
+margin-top: -0.1px;
+color:white;
+font-size: 18px;
+font-weight: lighter;
+line-height: 25px;
+padding-top: 30px;
+margin-left: 500px;
+
+}
+
+
+.search_bar{
+    height: 40px;
+    width: 500px;
+    background-color: white;
+    border: grey 2.5px solid;
+   border-radius: 10px;
+    margin-top: -15px;
+    margin-left: 430px;
+
+}
+
+button{
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 90px;
+    border: rgb(0, 0, 0) 6px solid;
+   border-radius: 5px;
+   font-size: 15px;
+   margin-left: -91px;
+}
+
+button:hover{
+    background-color: rgb(41, 41, 41);
+    border: rgb(41, 41, 41) 6px solid;
+
+}
+
+
+input:focus{
+    outline: none;
+    border: none;
+    border: grey 2.5px solid;
+}
+
+
+.latest{
+    font-size:40px ;
+    margin-left: 70px;
+}
+
+.grid-conatiner{
+    display: grid;
+    grid-template-columns: repeat(5,240px);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin-left: 14px;
+    
+    
+}
+
+.grid-Random{
+    display: grid;
+    grid-template-columns: repeat(5,240px);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin-left: 14px;
+    
+    
+}
+
+.grid,.grid2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px ;
+    /* border: 1px solid white; */
+    height: 280px;
+    box-shadow: 2px 0px 7px 3px rgb(167, 166, 166);   
+    text-align: center;
+   
+}
+.grid img{
+    width: 220px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+
+.grid p{
+   
+}
+
+
+.Random{
+    font-size:40px ;
+    margin-left: 70px;
+}
+
+.footer{
+    height: 300px;
+    background-color: rgb(49, 49, 49);
+    margin-top: 100px;
+}
+
+.footer a{
+    font-size:40px ;
+    color: white;
+}
+
+
+
