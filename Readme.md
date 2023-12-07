@@ -6,7 +6,6 @@ Prototype link for the desktop view:-
 https://www.figma.com/proto/csLbdasxPlQxn4naBtBHjK/CA-food-website?type=design&node-id=2-3&t=0UoGz68xEePYJYcg-1&scaling=contain&page-id=0%3A1&mode=design
 
 
-
 Prototype link for the Mobile view:-
 
 https://www.figma.com/proto/C4koanR2zhoqp3vO7a445V/responsive-shahina?type=design&node-id=1-2&t=TsPauW4HSry2pJlc-1&scaling=scale-down&page-id=0%3A1&mode=design
